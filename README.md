@@ -21,3 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 [5. Make the app prettier](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#4)  
 [6. Add functionality](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#5)  
 [7. Add navigation rail](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#6)  
+[8. Add a new page](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#7)  
